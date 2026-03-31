@@ -139,15 +139,9 @@ streamlit run app.py
 ```
 
 🔮 Future Improvements
-Generate full sentences instead of a single word
-Add top-k predictions
-Use GRU / Transformer-based models
-Improve dataset size and vocabulary
-Add temperature-based text generation
-Enhance UI/UX🔮 Future Improvements
-Generate full sentences instead of a single word
-Add top-k predictions
-Use GRU / Transformer-based models
-Improve dataset size and vocabulary
-Add temperature-based text generation
-Enhance UI/UX
+- Generate full sentences instead of a single word
+- Add top-k predictions
+- Use GRU / Transformer-based models
+- Improve dataset size and vocabulary
+- Add temperature-based text generation
+- Enhance UI/UX
